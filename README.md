@@ -94,6 +94,10 @@ CREATE PLUGGABLE DATABASE wed_26853_BILLY_university_resource_management_system_
 
 ### 3. CREATING TABLE CODES
 
+
+
+
+
 ![image](https://github.com/user-attachments/assets/9d254d42-f525-4d35-a330-442fd502eecd)
 ![image](https://github.com/user-attachments/assets/2b9e87fa-0ec3-402f-8699-60faf7bb05f3)
 ![image](https://github.com/user-attachments/assets/0d1e9f85-a193-46ab-985c-4b1b4343c45b)
