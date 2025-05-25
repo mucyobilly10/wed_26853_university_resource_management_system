@@ -75,6 +75,23 @@ The **University Resource Management System** is a full-stack web application in
 
 ![image](https://github.com/user-attachments/assets/429975c2-db56-46b5-9c0f-44cba8cd241c)
 
+### 3. CREATING A PLUGGABLE DATABASE
+```sql
+
+CREATE PLUGGABLE DATABASE wed_26853_BILLY_university_resource_management_system_db
+  2    ADMIN USER billy IDENTIFIED BY billy
+  3    FILE_NAME_CONVERT = (
+  4      'C:\app\oradata\XE\pdbseed',
+  5      'C:\app\oradata\XE\WED26853_BILLY_DB'
+  6    );
+
+```
+![image](https://github.com/user-attachments/assets/cc40d6ee-9305-45cb-92ad-5800e12d5d02)
+
+### OEM
+![image](https://github.com/user-attachments/assets/8ef8f84f-6d35-4885-861b-fa9f683c5fa4)
+
+
 ### 3. CREATING TABLE CODES
 
 ![image](https://github.com/user-attachments/assets/9d254d42-f525-4d35-a330-442fd502eecd)
